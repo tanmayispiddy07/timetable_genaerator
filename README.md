@@ -16,7 +16,7 @@ In academia, creating timetables that accommodate multiple classes, subjects, an
 - **Real-World Problem Solving**: Translates academic DSA theory into a real-world application, tackling scheduling challenges in a practical and effective manner.
 - **User-Friendly Solution**: Reduces the workload for educators and administrators, providing a balanced and structured timetable in minimal time.
 
-## 📈 How It Works
+## 📈 How we Worked on the Problem
 
 1. **Algorithm Selection**: Research and selection of appropriate algorithms, including Greedy techniques, to meet scheduling requirements.
 2. **Constraint Handling**: Incorporates constraints based on teacher schedules, subject distribution, and workload limits.
