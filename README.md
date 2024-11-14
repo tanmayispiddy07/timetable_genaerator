@@ -30,9 +30,9 @@ In academia, creating timetables that accommodate multiple classes, subjects, an
 
 ## 🌐 Project Links
 
-- **GitHub Repository**: [Time Table Generator](https://lnkd.in/giSfQS9x)
-- **Documentation**: [View Documentation](https://lnkd.in/g9gn6hrR)
-- **Website**: [Visit Website](https://lnkd.in/gDyjvi65)
+
+- **Documentation**: [View Documentation](https://drive.google.com/file/d/108ZeuRcokbPZYkEc6_BdJola2dXrzKTs/view?usp=sharing)
+- **Website**: [Visit Website](https://timetablegenapp.streamlit.app/)
 
 ## 📂 Project Structure
 
