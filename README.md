@@ -36,9 +36,9 @@ In academia, creating timetables that accommodate multiple classes, subjects, an
 
 ## 📂 Project Structure
 
-- `algorithm.py`: Core algorithmic logic implementing Greedy and constraint programming techniques.
-- `constraints.py`: Defines and manages scheduling constraints.
-- `timetable_generator.py`: Main application script for generating and optimizing the timetable.
+- `algorithm`: Core algorithmic logic implementing Greedy and constraint programming techniques.
+- `constraints`: Defines and manages scheduling constraints.
+- `daa_proj.py`: Main application script for generating and optimizing the timetable.
 - **Documentation & Website**: Detailed documentation and an interactive website for user guidance.
 
 ## 🎉 Project Highlights
